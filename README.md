@@ -1,4 +1,4 @@
-# Budget Web Application
+# :moneybag: Budget Web Application
 
 * Designed the budget app in 3 days by myself.
 * Budget app helps to maintain the overall record to expense.
